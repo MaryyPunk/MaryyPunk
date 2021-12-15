@@ -1,1 +1,3 @@
-- HOi, eu sou Mari
+- Hoi, eu sou a Mari
+- Pronomes: Ela/dela
+- 
